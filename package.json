@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Markdown based resume",
   "dependencies": {
-    "markdown-resume": "~0.1.0"
+    "markdown-resume": "git@github.com:thinkharderdev/markdown-resume.git#v0.1.0"
   }
 }
